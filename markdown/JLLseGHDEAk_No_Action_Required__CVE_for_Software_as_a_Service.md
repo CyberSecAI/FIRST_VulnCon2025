@@ -5,7 +5,7 @@
 
 ---
 
-```markdown
+
 **SUMMARY**
 The panel discusses CVE assignment for cloud vulnerabilities, focusing on the changes in CVE CNA rules, the challenges of determining necessary actions, and customer protection.
 
@@ -157,4 +157,3 @@ Prioritize customer protection through direct communication and actionable insig
 * Participate in bug bounty programs to identify and address vulnerabilities, incentivizing researchers to find and report security flaws.
 * Consistently apply a rubric when assigning CVEs to ensure fairness, maintaining objectivity and avoiding inconsistencies in the process.
 * Engage directly with customers to communicate security information, providing clear and actionable guidance to mitigate potential risks.
-```

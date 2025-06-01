@@ -5,7 +5,6 @@
 
 ---
 
-```markdown
 **SUMMARY**
 Lisa Bradley and Sarah Evans discuss AI's growing role in software, its vulnerabilities, and evolving security practices, emphasizing data protection, supply chain security, and universal attestation frameworks.
 
@@ -138,4 +137,3 @@ Securing AI's future requires proactive, collaborative strategies, integrating d
 * Think more deeply and proactively about AI applications and components, extending current ideas to address broader vulnerability remediation needs.
 * Explore industry reference links to connect and explore other areas, finding people to share expertise with as they seek understanding.
 * Develop a universal attestation framework to identify and respond to AI vulnerabilities effectively, ensuring product security and compliance.
-```

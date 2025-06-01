@@ -5,7 +5,7 @@
 
 ---
 
-```markdown
+
 **SUMMARY**
 Muan and Chisan from VU Amsterdam discuss inconsistencies between CVSS V3.1 and V4 vulnerability ratings, proposing consistency rules and knowledge-based approaches to improve rating accuracy.
 
@@ -152,4 +152,3 @@ Standardizing vulnerability rating through consistency rules and continuous data
 * Conduct thorough data analysis to identify patterns and trends in vulnerability ratings, informing the development of targeted interventions and improvements.
 * Actively seek feedback from users and stakeholders to improve the usability and effectiveness of consistency rules and tools for vulnerability assessment.
 * Standardize vulnerability descriptions to minimize subjective interpretations, ensuring that assessments are based on comprehensive and consistent information.
-```
