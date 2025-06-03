@@ -136,7 +136,8 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > Root cause mapping is the identification of the underlying cause(s) of a vulnerability. This is best done by correlating CVE Records and/or bug or vulnerability tickets with CWE entries. Accurate root cause mapping is valuable because it directly illuminates where investments, policy, and practices can address the root causes responsible for vulnerabilities so that they can be eliminated. This enables trend analysis where a valuable feedback loop into SDLC or architecture design planning can help remove of whole classes of vulnerabilities in organizations’ products. However, widespread adoption of root cause mapping has been elusive due to several challenges including CWE usability, completeness, the diversity of terminology interpretation, and organizational resource constraints, to name a few.
   > 
   > This presentation touches on the value of root cause mapping and recognizes recent adoption in the CNA community, before exploring what is being done to address existing challenges and develop practical solutions. Additionally, we evaluate the performance of a grounded large language model (LLM) tool against the CWE Top 25 Most Dangerous Software Weaknesses dataset. The comparative analysis sheds light on the viability of advancements in LLM capabilities in helping to scale decentralized root cause mapping throughout the vulnerability management ecosystem, offering actionable insights for practitioners and researchers alike.
-  [Paper/Slides](/resources/papers/vulncon25/Vulnerability-Root-Cause-Mapping-with-CWE_-Challenges-Solutions-and-Insights-from-Grounded-LLM)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Vulnerability-Root-Cause-Mapping-with-CWE_-Challenges-Solutions-and-Insights-from-Grounded-LLM)
+
 
 ### **[BOF: Vulnerability Data Consumers](markdown/GyFyXvmlxHY_BOF_%20Vulnerability%20Data%20Consumers.md)** - [Watch Video](https://www.youtube.com/watch?v=GyFyXvmlxHY)
   **Speakers:** Jay Jacobs Jay Jacobs (Empirical Security , US)
@@ -157,14 +158,14 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 7, 2025 16:00-16:30
   **Abstract:**
   > Vulnerabilities are each unique, but the industry uses metadata to reflect similarities in cause, consequences, and impact. This talk examines whether it's possible to use that metadata to understand the vulnerability landscape as a whole, and also to validate the work of security analysts.
-  [Paper/Slides](/resources/papers/vulncon25/Validating-Vulnerability-Analysis-with-Statistical-Analysis-of-Metadata_VC25.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Validating-Vulnerability-Analysis-with-Statistical-Analysis-of-Metadata_VC25.pdf)
 
 ### **[Vulnerability Data Analysis with Google Spreadsheets and Apps Script for Fun and Profit](markdown/zm-duefgdtc_Vulnerability_Data_Analysis_with_Google_Spreadsheets_and_Apps_Script_for_Fun_and_Profit.md)** - [Watch Video](https://www.youtube.com/watch?v=zm-duefgdtc)
   **Speakers:** Andrew Pollock Andrew Pollock (Google Open Source Security Team, AU)
   **When:** April 7, 2025 09:30-11:00
   **Abstract:**
   > Andrew will share tips and tricks on how to use Google Sheets, Apps Script and the various JSON APIs available from the CVE List, the NVD and OSV.dev to slice and dice vulnerability metadata, based on his experiences in Spreadsheet Engineering
-  [Paper/Slides](/resources/papers/vulncon25/Vulnerability-Data-Analysis-with-Google-Spreadsheets-and-Apps-Script-for-Fun-and-Profit.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Vulnerability-Data-Analysis-with-Google-Spreadsheets-and-Apps-Script-for-Fun-and-Profit.pdf)
 
 ### **[Using Jupyter Notebooks to Explore Public CVE Data](markdown/CUzluKxfQO0_Using_Jupyter_Notebooks_to_Explore_Public_CVE_Data.md)** - [Watch Video](https://www.youtube.com/watch?v=CUzluKxfQO0)
   **Speakers:** Jerry Gamblin (Cisco, US)
@@ -193,7 +194,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > Vulnerability management is a mature and robust—if imperfect—process in information technology (IT). The same process, though, poses unique challenges for engineers, technicians, and security teams in operational technology (OT) environments. The difficulties faced in the OT space may not be widely known or understood by vulnerability researchers and IT security professionals. Understanding these differences is key to securing operational environments, which, along with being ever more connected, are also increasingly interdependent with IT systems.
   > 
   > Kylie and Alex will present a view of vulnerability management in OT environments, examining this process in practice at electric utilities. Their presentation will include current approaches, the regulatory requirements specific to the space, data needs, and the unique challenges posed by OT environments."
-  [Paper/Slides](/resources/papers/vulncon25/don-t_forget_the_little_guy.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/don-t_forget_the_little_guy.pdf)
 
 ### **[Diagnosing the Hurdles in the Medical Device Regulatory Landscape](markdown/jnmcX07pMMw_Diagnosing_the_Hurdles_in_the_Medical_Device_Regulatory_Landscape.md)** - [Watch Video](https://www.youtube.com/watch?v=jnmcX07pMMw)
   **Speakers:** Ethan Muntz (Health-ISAC	, US), Taylor Porter (Health-ISAC	, US)
@@ -208,7 +209,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 7, 2025 12:00-12:30
   **Abstract:**
   > As artificial intelligence (AI) becomes increasingly integrated into software products, it introduces new types of vulnerabilities that challenge traditional security practices. This talk will explore how AI-specific vulnerabilities, such as adversarial attacks and model poisoning, necessitate changes in product security vulnerability response. This talk will also propose areas of the AI supply chain that will need to evolve to improve vulnerability management. By examining the unique characteristics of AI supply chain components, vulnerabilities and the evolving landscape of AI security, we will discuss how organizations can adapt their vulnerability management strategies to address these emerging threats. The presentation will highlight current best practices, case studies, and future trends in AI security.
-  [Paper/Slides](/resources/papers/vulncon25/Securing-the-Future-Navigating-AI-Vulnerabilities-and-Evolving-Security-Practices-VulnCon-2025.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Securing-the-Future-Navigating-AI-Vulnerabilities-and-Evolving-Security-Practices-VulnCon-2025.pdf)
 
 ### **[From NIST to FIRST: How GitHub’s Product Security Response Organization Transitioned](markdown/2HKlNgHmp7k_From%20NIST%20to%20FIRST_%20How%20GitHub’s%20Product%20Security%20Response%20Organization%20Transitioned.md)** - [Watch Video](https://www.youtube.com/watch?v=2HKlNgHmp7k)
   **Speakers:** Jeffrey Guerra (GitHub, US), Sara Clements (GitHub, US)
@@ -223,14 +224,14 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 7, 2025 14:30-15:00
   **Abstract:**
   > Product security incident response at a SaaS technology company comes with challenges and opportunities different from those at a strictly on prem vendor. Rapid risk-based decision-making is enabled by the ability to measure exposure at scale and monitor for exploitation activity. Challenges include easily discoverable and often wide-open Internet connected attack surface area.
-  [Paper/Slides](/resources/papers/vulncon25/Garrett-McNamara-SaaS-PSIRT.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Garrett-McNamara-SaaS-PSIRT.pdf)
 
 ### **[Towards a Minimum Viable Enumeration of Vulnerabilities](markdown/r5bZ0mNjJ_U_Towards_a_Minimum_Viable_Enumeration_of_Vulnerabilities.md)** - [Watch Video](https://www.youtube.com/watch?v=r5bZ0mNjJ_U)
   **Speakers:** Art Manion Jay Jacobs Art Manion (ANALYGENCE Labs, US), Jay Jacobs (Empirical Security , US)
   **When:** April 7, 2025 09:30-10:00
   **Abstract:**
   > Vulnerability databases come in all shapes and sizes and contain a variety of information elements. Some elements overlap across databases, other elements do not and database records can vary in size depending for example on how many references are included or how much software status (“affected”) is provided. These databases and their elements are intended to support vulnerability management which we organize into four phases: discovery, prioritization, mitigation, and feedback. Which data elements contribute to these phases? More importantly, which are required to enable the first essential phase of discovery? A Minimum Viable Vulnerability Enumeration (MVVE) is the smallest possible number of information elements required to discover (identify and disambiguate) a vulnerability. Without an MVVE element, discovery, and therefore vulnerability management in its entirety, are not possible. This talk will define phases of vulnerability management and how information elements support those phases, with a strong focus on the MVVE necessary for the essential first discovery phase. We map the MVVE to a few well-known vulnerability databases, including CVE.
-  [Paper/Slides](/resources/papers/vulncon25/MVVE_VulnCon2025.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/MVVE_VulnCon2025.pdf)
 
 ### **[Establishing a Global Community of Practice on Coordinated Vulnerability Disclosure (CVD)](markdown/udBqjmuVRGg_Establishing_a_Global_Community_of_Practice_on_Coordinated_Vulnerability_Disclosure_(CVD).md)** - [Watch Video](https://www.youtube.com/watch?v=udBqjmuVRGg)
   **Speakers:** Justin Murphy Tomo Ito Justin Murphy (CISA, US), Tomo Ito (JPCERT/CC, JP)
@@ -246,7 +247,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > How can application, package and library producers help their consumers to stay safe? CPE and PURL are the major contenders for mapping vulnerabilities to impacted software. But which is best? The answer may actually be to use both. Each have strengths and weaknesses, and both have opportunities where they may be able to improve.
   > 
   > Additionally we’ll explore the responsibility of software producers to provide the metadata needed for informed decision making and how organizations like Mitre and NIST can help push us towards a more informed future.
-  [Paper/Slides](/resources/papers/vulncon25/VulnCon2025_WhereDoWeAim.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/VulnCon2025_WhereDoWeAim.pdf)
 
 ### **[Belgian Federal Government invites Ethical Hackers for First-Ever 'Hack the Government' Event](markdown/f9zlUbvqa1E_Belgian_Federal_Government_invites_Ethical_Hackers_for_First-Ever_'Hack_the_Government'_Event.md)** - [Watch Video](https://www.youtube.com/watch?v=f9zlUbvqa1E)
   **Speakers:** Johan Caluwe Susan Bushe Johan Caluwe (Centre for Cybersecurity Belgium, BE), Susan Bushe (Centre for Cybersecurity Belgium	, BE)
@@ -303,7 +304,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > 
   > This groundbreaking method enhances container security by ensuring the use of approved base images while streamlining vulnerability management through VEX inheritance. By automatically suggesting VEX information from parent images to child images, the system significantly reduces false
   > positives and focuses attention on truly exploitable vulnerabilities. DevOps teams, security professionals, and incident responders will gain valuable insights into automating parent image tracking, inheriting VEX statements across image layers, and conducting more accurate vulnerability assessments throughout the container lifecycle, ultimately transforming container security postures and accelerating vulnerability triage processes.
-  [Paper/Slides](/resources/papers/vulncon25/Power-of-VEX-Inheritance.pptx)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Power-of-VEX-Inheritance.pptx)
 
 ### **[Adversarial Intelligence: Redefining Application Security Through the Eyes of an Attacker](markdown/mVWSdqds9uo_Adversarial%20Intelligence_%20Redefining%20Application%20Security%20Through%20the%20Eyes%20of%20an%20Attacker.md)** - [Watch Video](https://www.youtube.com/watch?v=mVWSdqds9uo)
   **Speakers:** Mahesh Babu Roy Talyosef Mahesh Babu (Kodem, US), Roy Talyosef (Kodem, US)
@@ -316,7 +317,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 7, 2025 16:00-16:30
   **Abstract:**
   > The Yocto Project allows embedded vendors to build their custom Linux (and not only) distributions from scratch, so  from the source code. This talk explains the challenges we faced when adding support for multiple vulnerability databases and trying to express our "VEX-like" data as VEX.
-  [Paper/Slides](/resources/papers/vulncon25/VulnCon202504_Rybczynska_DistributionBuildersMeetVEXv2.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/VulnCon202504_Rybczynska_DistributionBuildersMeetVEXv2.pdf)
 
 ### **[Models and Systems: How to Think About Vulnerabilities and Artificial Intelligence](markdown/lCWitnSDELA_Models%20and%20Systems_%20How%20to%20Think%20About%20Vulnerabilities%20and%20Artificial%20Intelligence.md)** - [Watch Video](https://www.youtube.com/watch?v=lCWitnSDELA)
   **Speakers:** Erick Galinkin (NVIDIA, US)
@@ -343,7 +344,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 8, 2025 14:00-14:30
   **Abstract:**
   > How do we better leverage CVE root cause mapping along with CWE data in order to prevent new vulnerabilities from occurring? Spending development time to fix the continued growth of CVEs is not scalable.
-  [Paper/Slides](/resources/papers/vulncon25/VulnCon2025-Leveraging-CVE-root-cause-mapping-1-.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/VulnCon2025-Leveraging-CVE-root-cause-mapping-1-.pdf)
 
 ### **[Open Discussion - International Challenges with CVD, CNA, and CVE](markdown/Nc6sfvp0K88_Open_Discussion_-_International_Challenges_with_CVD,_CNA,_and_CVE.md)** - [Watch Video](https://www.youtube.com/watch?v=Nc6sfvp0K88)
 ### **[Breaking the Bot: GenAI Web App Attack Surface & Exploitation](markdown/YM7QG80jGK4_Breaking%20the%20Bot_%20GenAI%20Web%20App%20Attack%20Surface%20&%20Exploitation.md)** - [Watch Video](https://www.youtube.com/watch?v=YM7QG80jGK4)
@@ -395,7 +396,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > To perform various security activities like vulnerability management, license compliance or support model verification, software and hardware customers must rely on various metadata like CSAF, VEX or SBOM data. Unfortunately together with the market expansion it’s getting harder to easily find out and verify specific product lifecycles, especially in a machine readable format and easily accessible way. Almost all vendors publish their products' lifecycle data definitions, but there is no standardization around format and delivery method.
   > 
   > In this talk we will focus on both technical and non-technical aspects of precise product identification, product versioning, support model including target dates. We will discuss how significantly it can help customers with various lifecycle or support scope regulatory requirements and security implications.
-  [Paper/Slides](/resources/papers/vulncon25/VulnCon2025-OpenEoX.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/VulnCon2025-OpenEoX.pdf)
 
 ### **[What's New in CSAF and OpenEoX](markdown/jf7TBdf9h-k_What's_New_in_CSAF_and_OpenEoX.md)** - [Watch Video](https://www.youtube.com/watch?v=jf7TBdf9h-k)
   **Speakers:** Justin Murphy Justin Murphy (CISA, US), Omar Santos (Cisco)
@@ -440,7 +441,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > "Information security standards and regulations are constantly gaining more traction and adoption, in an effort to counter-balance the expanding cybercriminal “business sector”. However, these are, understandably, often devised on the assumption that they will be implemented within enterprises, which are centrally managed and have well-defined boundaries. Nevertheless, open source software has become ubiquitous within enterprise infrastructure and consumer products, with little consideration given by regulators or standards bodies.
   > 
   > With open source projects acting as suppliers, often with a governance structure that’s not defined in detail, the question of the suitability of cybersecurity regulations and industry standards within the OSS context becomes increasingly relevant. While organisations such the Open Source Security Foundation (OpenSSF) are making a huge difference by providing best practices, tools and information, these would also need to be recognised by regulators and standards bodies in order to bridge the gap with the enterprises’ burdens. This talk explores the beneficial aspects that can be learned from regulations and standards to further improve the security posture of OSS projects, as well as the requirements which are difficult to map in this context."
-  [Paper/Slides](/resources/papers/vulncon25/Applying-Cybersecurity-Regulations-and-Industry-Standards-to-Open-Source-Projects.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Applying-Cybersecurity-Regulations-and-Industry-Standards-to-Open-Source-Projects.pdf)
 
 ### **[The Quality Imperative for CVEs: The Need For Enhancing Vulnerability Reporting Standards](markdown/qkc6uj9La2g_The%20Quality%20Imperative%20for%20CVEs_%20The%20Need%20For%20Enhancing%20Vulnerability%20Reporting%20Standards.md)** - [Watch Video](https://www.youtube.com/watch?v=qkc6uj9La2g)
   **Speakers:** Jerry Gamblin (Cisco, US)
@@ -480,14 +481,14 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 8, 2025 16:00-16:30
   **Abstract:**
   > Vulnrichment is CISA's effort to fill in the gaps on vulnerability data—namely, gauging impact and risk of vulnerabilities as they are published by CVE. Our approach on tackling the daily dozens to hundreds of vulnerabilities on behalf of the federal government embraces radical transparency, and this talk by Lindsey and Art will go over the requirements for Vulnrichment, the realized and expected outcomes, and the federal government's use of an open forum like GitHub Issues to deal with errors, omissions, and discrepancies.
-  [Paper/Slides](/resources/papers/vulncon25/CISA_Vulnrichment_Year_One.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/CISA_Vulnrichment_Year_One.pdf)
 
 ### **[UC2 Risk Ruler for CVSS 4.0: Visualizing Vulnerability Severity and Data Confidence](markdown/abdjkSJ-BCs_UC2%20Risk%20Ruler%20for%20CVSS%204.0_%20Visualizing%20Vulnerability%20Severity%20and%20Data%20Confidence.md)** - [Watch Video](https://www.youtube.com/watch?v=abdjkSJ-BCs)
   **Speakers:** Rob Arnold (Acorn Pass, US)
   **When:** April 8, 2025 09:00-10:00
   **Abstract:**
   > The UC2 Risk Ruler enhances the Common Vulnerability Scoring System (CVSS) version 4.0 by integrating confidence levels into vulnerability scores, offering a visual representation that aligns numeric scores with qualitative severity labels and data reliability. While CVSS 4.0 offers  standardized quantitative scores mapped to qualitative labels, it lacks a built-in mechanism for representing confidence in the underlying data quality, impacting  decision accuracy. The UC2 Risk Ruler addresses this gap by aligning CVSS scores with distinct confidence levels—High, Medium, Low, and Unknown—enabling stakeholders to assess the reliability of vulnerability scores in addition to  severity. This framework assists decision-makers by reducing "false precision" in low-confidence data, promoting transparency, and facilitating clear communication across technical and non-technical teams. Practical applications include aiding leadership in determining adequate certainty levels for defensible  decisions and allowing teams to gauge model sensitivity to confidence adjustments, ultimately refining vulnerability  management and supporting robust cybersecurity strategies.
-  [Paper/Slides](/resources/papers/vulncon25/CVSS-Risk-Ruler-VulnCon-2025-v1.1.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/CVSS-Risk-Ruler-VulnCon-2025-v1.1.pdf)
 
 ### **[CVSS v4.0 By The Numbers](markdown/d5CdaSVqmwI_CVSS_v4.0_By_The_Numbers.md)** - [Watch Video](https://www.youtube.com/watch?v=d5CdaSVqmwI)
   **Speakers:** Nick Leali Nick Leali (Cisco and CVSS SIG Chair, US)
@@ -498,7 +499,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > If you are concerned about the impact that adopting CVSS v4.0 will have on your environment, interested in learning about how the numbers may change, or if you want to craft a narrative using math to either push for v4.0 adoption or avoid it entirely, then this talk is for you! I will go through an analysis of the changes between CVSS v3.1 and v4.0 scores, giving you the context necessary for understanding how adoption may impact vulnerability disclosure and vulnerability management.
   > 
   > In addition to the numbers, we'll discuss some of the shortcomings of CVSS v4.0 and how you can use the standard to its full extent. You can even use the tool I developed to create this talk to look at CVSS v3.1 and v4.0 data in your own environment!
-  [Paper/Slides](/resources/papers/vulncon25/CVSS-SIG-VulnCon-2025.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/CVSS-SIG-VulnCon-2025.pdf)
 
 ### **[Updates from the CVSS SIG](markdown/etDcVPpOuo8_Updates_from_the_CVSS_SIG.md)** - [Watch Video](https://www.youtube.com/watch?v=etDcVPpOuo8)
   **Speakers:** Nick Leali Nick Leali (Cisco and CVSS SIG Chair, US)
@@ -507,7 +508,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > During this talk, Nick will present the recent past, present, and near future business of the FIRST CVSS SIG. Topics include the updates from the CVSS SIG over the past year; results from the CVSS SIG survey; and the progress of CVSS v4.0 adoption.
   > 
   > Please bring your questions and requests for examples to discuss.
-  [Paper/Slides](/resources/papers/vulncon25/CVSS-SIG-VulnCon-2025.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/CVSS-SIG-VulnCon-2025.pdf)
 
 ### **[Towards a Vulnerability Reporting Specification](markdown/JvmT6EiwUCM_Towards_a_Vulnerability_Reporting_Specification.md)** - [Watch Video](https://www.youtube.com/watch?v=JvmT6EiwUCM)
   **Speakers:** Marta Rybczynska Marta Rybczynska (Eclipse Foundation, FR), Mikael Barbero (Eclipse Foundation, FR)
@@ -542,7 +543,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > Canonical has recently implemented a company wide Secure Software Development Lifecycle (SSDLC), that aims to systematically address security concerns, and manage vulnerabilities throughout the companies entire portfolio.
   > 
   > In this talk I will share how these policies allow us to prevent and respond to vulnerabilities, and how this can be achieved with very minimal security team. The lessons learned through this process will be shared, to allow others to better manage their company-wide vulnerability posture, and maximise the results they can achieve.
-  [Paper/Slides](/resources/papers/vulncon25/Managing-Vulnerabilities-through-SSDLC.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Managing-Vulnerabilities-through-SSDLC.pdf)
 
 ### **[Production, Consumption, and the Data: The Open Source Security Sandwich](markdown/vOTl_gjaeLI_Production,%20Consumption,%20and%20the%20Data_%20The%20Open%20Source%20Security%20Sandwich.md)** - [Watch Video](https://www.youtube.com/watch?v=vOTl_gjaeLI)
   **Speakers:** Michael Lieberman (Kusari, US)
@@ -565,7 +566,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > As security concerns continue to grow in the software industry, customers seek assurance that the software they rely on is built securely. While applying security patches is essential, it is equally important to understand the proactive measures taken throughout the development process to ensure that our software is built securely and is compliant with regulatory requirements and industry security standards.
   > 
   > Red Hat follows a comprehensive Secure Software Development Lifecycle (SDLC) framework to improve software security during the entire software lifecycle, mitigating risks, including vulnerabilities, before products are released to production and ensuring that customers can trust Red Hat’s products. We also use an end-to-end build and release environment, which uses SLSA (Supply-chain Levels for Software Artifacts) framework as a guide for reinforcing and gating the build process to better secure and fortify your software supply chain against various threats.
-  [Paper/Slides](/resources/papers/vulncon25/VulnCon2025-Building-Trust-Through-Proactive-Security.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/VulnCon2025-Building-Trust-Through-Proactive-Security.pdf)
 
 ### **[Alpha-Omega: What We've Learned From Funding Open Source Security Over the Past 3Years, What's Ahead](markdown/8gZPwB3JKAU_Alpha-Omega_%20What%20We've%20Learned%20From%20Funding%20Open%20Source%20Security%20Over%20the%20Past%203Years,%20What's%20Ahead.md)** - [Watch Video](https://www.youtube.com/watch?v=8gZPwB3JKAU)
 ### **[Vulnerability Response of Last Resort](markdown/AqT5_tUBBdM_Vulnerability_Response_of_Last_Resort.md)** - [Watch Video](https://www.youtube.com/watch?v=AqT5_tUBBdM)
@@ -573,7 +574,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 9, 2025 15:30-16:00
   **Abstract:**
   > The open-source software ecosystem continues to steadily expand, with millions of packages across repositories. However, this growth is not matched by a corresponding increase in maintainers, leading to challenges in package sustainability and opening the door to potential issues in vulnerability management. To help address these issues, open-source distributions can act as a "Vulnerability Responder of Last Resort" for under-maintained packages, providing community guidance and helping to process reports. Also discussed is the particular impact of vulnerability reports on packages facing these challenges.
-  [Paper/Slides](/resources/papers/vulncon25/2025_04_09_Diogo_Sousa_Vulnerability_Response_of_Last_Resort_VulnCon_2025_REVISED.pdf.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/2025_04_09_Diogo_Sousa_Vulnerability_Response_of_Last_Resort_VulnCon_2025_REVISED.pdf.pdf)
 
 ### **[Identifying and Assigning AI Model Vulnerabilities](markdown/Pz_J1OuXp70_Identifying_and_Assigning_AI_Model_Vulnerabilities.md)** - [Watch Video](https://www.youtube.com/watch?v=Pz_J1OuXp70)
   **Speakers:** D’Nae Ferguson Kyle Kilian D’Nae Ferguson (RAND Corporation, US), Kyle Kilian (RAND Corporation, US)
@@ -598,14 +599,14 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > Jarek and Michael will share their learnings from running the cleaning exercise for about 6 months and will encourage other Open-Source project maintainers as well as those who fund security efforts to scale that approach within the whole Python ecosystem.
   > 
   > Link to slides: https://go.xwind.io/vulncon-beach-cleaning
-  [Paper/Slides](/resources/papers/vulncon25/Airflow-Beach-Cleaning-Securing-Supply-Chain-Vulncon-April-2025.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Airflow-Beach-Cleaning-Securing-Supply-Chain-Vulncon-April-2025.pdf)
 
 ### **[From Idea to Open-Source: Building CNA-GURU, a Generative AI Assistant for Security Advisories](markdown/OYH8qbUueaI_From%20Idea%20to%20Open-Source_%20Building%20CNA-GURU,%20a%20Generative%20AI%20Assistant%20for%20Security%20Advisories.md)** - [Watch Video](https://www.youtube.com/watch?v=OYH8qbUueaI)
   **Speakers:** Ryan Nolette Ryan Nolette (AWS, US)
   **When:** April 9, 2025 13:30-14:00
   **Abstract:**
   > This presentation will share the story of how an idea born at the VulnCon 2024 conference grew into CNA-GURU, an open-source generative AI assistant to help security professionals manage the complexities of working with security advisories. The speaker will discuss the motivation behind creating the tool, the challenges faced by security teams in keeping up with the volume and complexity of vulnerability reports, and the iterative process of developing CNA-GURU through collaboration with industry peers. The presentation will provide a detailed overview of the tool's features, its evolution from a proof-of-concept to a robust solution, and the techniques and technologies used to build it, including the leveraging of AWS Bedrock. The audience will gain insights into the benefits of using generative AI to streamline security advisory tasks and the potential for such tools to improve the efficiency and consistency of vulnerability management.
-  [Paper/Slides](/resources/papers/vulncon25/202504-vulncon-cna-guru.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/202504-vulncon-cna-guru.pdf)
 
 ### **[Let’s Talk About Fitness for Purpose: Comparing and Contrasting the CVE List with OSV.dev](markdown/JfKxnVT9taQ_Let’s%20Talk%20About%20Fitness%20for%20Purpose_%20Comparing%20and%20Contrasting%20the%20CVE%20List%20with%20OSV.dev.md)** - [Watch Video](https://www.youtube.com/watch?v=JfKxnVT9taQ)
   **Speakers:** Andrew Pollock (OpenSSF, AU)
@@ -616,7 +617,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > The CVE Program's federated approach enabled scaling of CVE issuance, but failed to implement any meaningful record quality enforcement. This means the data quality problem scales with CNA growth.
   > 
   > This presentation compares the venerable CVE Program's approach with the 4 year old OSV.dev and offers suggestions on how things can be improved.
-  [Paper/Slides](/resources/papers/vulncon25/Let-s-Talk-about-Fitness-for-Purpose_-Comparing-and-Contrasting-the-CVE-List-with-OSV.dev.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Let-s-Talk-about-Fitness-for-Purpose_-Comparing-and-Contrasting-the-CVE-List-with-OSV.dev.pdf)
 
 ### **[Lessons from OSV: Vulnerability Management for Open Source](markdown/qHcpKW2nOqI_Lessons%20from%20OSV_%20Vulnerability%20Management%20for%20Open%20Source.md)** - [Watch Video](https://www.youtube.com/watch?v=qHcpKW2nOqI)
   **Speakers:** Oliver Chang (Google	, AU)
@@ -674,7 +675,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 10, 2025 09:30-10:00
   **Abstract:**
   > This presentation will discuss the current status of the NVD, as well as short- and long-term goals of the program. Recent developments, developments planned for later in 2025, and goals looking out 2 to 5 years, along with steps that will need to happen to reach these goals, will be discussed. This presentation will also include the current status of NIST’s Vulntology. There will be a Q&A time at the end.
-  [Paper/Slides](/resources/papers/vulncon25/VulnCon25-TBrewer-NVD-slides-final.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/VulnCon25-TBrewer-NVD-slides-final.pdf)
 
 ### **[CISA’s North Star Vision for the CVE Program](markdown/X58iSkPJnUk_CISA’s_North_Star_Vision_for_the_CVE_Program.md)** - [Watch Video](https://www.youtube.com/watch?v=X58iSkPJnUk)
   **Speakers:** Alec Summers Benjamin Edwards Bob Lord Sandy Radesky Alec Summers (The MITRE Corporation, US), Benjamin Edwards (Bitsight, US), Bob Lord (CISA, US), Sandy Radesky (CISA, US)
@@ -688,7 +689,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **Abstract:**
   > Explore how to streamline the resolution of security tickets, including those from PSIRTs and bug bounty programs, by effectively gathering and integrating
   > knowledge from company, product, and expert insights. This session will highlight the role and limitations of AI in the ticket resolution process, enabling more efficient and informed outcomes. Discover how to build a comprehensive system that incorporates continuous feedback loops, driving iterative improvements and ensuring your team is well-prepared to address the complexities of modern security challenges.
-  [Paper/Slides](/resources/papers/vulncon25/Resolution-Revolution.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Resolution-Revolution.pdf)
 
 ### **[Evolving Secure Development through FedRAMP Continuous Monitoring Trends](markdown/BRcZfE00VN8_Evolving_Secure_Development_through_FedRAMP_Continuous_Monitoring_Trends.md)** - [Watch Video](https://www.youtube.com/watch?v=BRcZfE00VN8)
   **Speakers:** Christopher Lusk (Red Hat	, US), Stephanie Harris (Red Hat, US)
@@ -703,7 +704,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   > In 2024, over 750 CVEs were confirmed as exploited in the wild for the first time. This talk will focus on the trends and patterns observed in these known exploited vulnerabilities, offering comprehensive analysis to empower both vendors and defenders.
   > 
   > Key Takeaways: Insights into 2024 exploited CVE trends and patterns. A look at how known exploitation maps to common vulnerability metadata. A deep dive into examples of last year’s exploited vulnerabilities and how to identify risks before exploitation occurs. Recommendations on how vendors and defenders can get early indicators that a threat actor might exploit a vulnerability.
-  [Paper/Slides](/resources/papers/vulncon25/VulnCon-2025-Research-FInal.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/VulnCon-2025-Research-FInal.pdf)
 
 ### **[Building a PSIRT for a Standards Organization](markdown/HzSkFOKggso_Building_a_PSIRT_for_a_Standards_Organization.md)** - [Watch Video](https://www.youtube.com/watch?v=HzSkFOKggso)
   **Speakers:** Jim Duncan (Jim Duncan, US)
@@ -711,7 +712,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **Abstract:**
   > Standards groups should have a policy for handling alleged flaws in their "product" and in upstream code, if any, that they modify and include in their own product. However, few such organizations have a well-defined process and policy. There are many challenges, the least of which is that the participants are competitors (as mentioned previously) and it will be inferred that agreeing to a PSIRT policy and process for a standards group will imply a loss of control
   > over the intellectual property. This presentation will highlight the unexpected challenges of establishing a PSIRT within a standards organization with a goal of helping others to bootstrap and run a vulnerability-handling mission for other standards groups.
-  [Paper/Slides](/resources/papers/vulncon25/Duncan-Building-a-PSIRT-for-a-Standards-Org.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/Duncan-Building-a-PSIRT-for-a-Standards-Org.pdf)
 
 ### **[CVE Unmoored: Implications of the Removal of the Technology Requirement](markdown/VhjELr_LKyc_CVE%20Unmoored_%20Implications%20of%20the%20Removal%20of%20the%20Technology%20Requirement.md)** - [Watch Video](https://www.youtube.com/watch?v=VhjELr_LKyc)
   **Speakers:** Jonathan Evans (GitHub, US)
@@ -758,7 +759,7 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 10, 2025 14:30-15:30
   **Abstract:**
   > CVE (Common Vulnerabilities and Exposures) records are the unsung heroes of the cybersecurity world. But are yours up to the task? This session will dive into how CVE Numbering Authorities (CNAs) can level up their CVE record submissions to create a lasting impact on the global cybersecurity landscape. From enriching CVE records with critical details like Common Weakness Enumeration assignments and Common Vulnerability Scoring System scores to ensuring timely and accurate data, we’ll explore the best practices that make all the difference. Whether you're a CNA or part of the cybersecurity community, this talk will show you how improving the quality of CVE records can strengthen defenses and enhance threat detection across the digital ecosystem. Get ready to take your CVE game to the next level and be a champion of cybersecurity!
-  [Paper/Slides](/resources/papers/vulncon25/CVE-Glow-Up-.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/CVE-Glow-Up-.pdf)
 
 ### **[BOF - Discussion Regarding False Positive Results from Vulnerability Scanners and the Use of VEX](markdown/TFT_8oHAYSw_BOF_-_Discussion_Regarding_False_Positive_Results_from_Vulnerability_Scanners_and_the_Use_of_VEX.md)** - [Watch Video](https://www.youtube.com/watch?v=TFT_8oHAYSw)
   **Speakers:** Peter Allor Lisa  Olson (Microsoft, US), Peter Allor (Red Hat, US)
@@ -785,5 +786,5 @@ This index contains a key info summary and insights from [all 89 FIRST VulnCon 2
   **When:** April 10, 2025 14:30-15:30
   **Abstract:**
   > Fixing or otherwise mitigating a vulnerability requires action. By someone. For user- or customer-controlled software, this “someone” is the user or customer who performs actions such as update, upgrade, patch, make a change configuration, rebuild, or fetch new dependencies. For software as a service, this “someone” is the service provider, while the user or customer may not need to take any material action. A browser refresh, session timeout, or a new API call uses the fixed software. What does it mean to assign CVE IDs to no-user-action” vulnerabilities? What are the costs and benefits? Is there danger of decreasing the CVE signal-to-noise ratio? How do changes in the CNA Operational Rules apply? A panel of major cloud service CNAs will discuss these questions and more.
-  [Paper/Slides](/resources/papers/vulncon25/No_Action_CVE_For_Services.pdf)
+  [Paper/Slides](https://www.first.org/resources/papers/vulncon25/No_Action_CVE_For_Services.pdf)
 
