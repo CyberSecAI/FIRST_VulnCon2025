@@ -114,7 +114,7 @@ FACTS
 * MITER publishes a yearly list of CPEs.
 
 REFERENCES
-* Call Guard platform
+* Qualys Guard platform
 * Veda (Vulnerability Elimination through Deep Analysis)
 * NVD (National Vulnerability Database)
 * GitHub Advisories
